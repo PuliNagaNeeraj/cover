@@ -24,7 +24,7 @@ Publish the website in the given URL.
 
 
 ## Code:
-
+```
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -140,11 +140,12 @@ Publish the website in the given URL.
         </div>
     </body>
 </html>
+```
 ## Output:
-![output](./out.png)
+![Output](./out.png)
 
-## HTML Validator:
-![HTML Validator](./valid).png
+## HTML Validator
+![HTML Validator](./valid.png)
 
 ## Result:
 The program for designing book front cover page using HTML and CSS is completed successfully.
